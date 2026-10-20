@@ -41,7 +41,7 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 **2. Get the code:**
 
 ```sh
-git clone https://github.com/TheXichao/discrete-maths-classes.git
+git clone https://github.com/goodman-imperial/discrete-maths-classes.git
 cd discrete-maths-classes
 ```
 
